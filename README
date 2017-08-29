@@ -1,0 +1,6 @@
+rpc port: 13995
+net port: 13996
+block time: 2 mins
+total coins: 40000000
+block reward: 10  //START reward mining from 1 JAN 2020
+scrypt-N adaptive
